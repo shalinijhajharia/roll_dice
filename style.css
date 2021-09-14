@@ -1,0 +1,44 @@
+h1
+{
+    color: yellow;
+}
+body
+{
+    background-image: url("https://icebreakerideas.com/wp-content/uploads/2015/10/Round-the-Clock%E2%80%9D-Dice-Game-e1445300310497.jpg");
+   
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.circle
+{
+    border-radius: 50px;
+    background: #3c363dd3;
+    padding: 20px; 
+    width: 670px;
+    height: 670px; 
+    border:5px solid rgb(248, 244, 6);
+    margin: auto;
+    text-align: center;
+      
+}
+.inputtext
+{
+    width: 200px;
+    height: 30px;
+    font-size: medium;
+    border-color:  rgb(7, 5, 5);
+    color: rgb(15, 15, 15);
+}
+.button1
+{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    
+}
+.display
+{
+    font-size: 30px;
+    color: yellow;
+}
